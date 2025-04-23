@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gitops-lab
-        image: emd7614/gitops-lab:fixed
+        image: emd7614/gitops-lab:vfixed
         ports: 
         - containerPort: 8080
 
